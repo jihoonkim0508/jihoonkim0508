@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 ## 💻 Languages
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
@@ -66,14 +65,6 @@ Here are some ideas to get you started:
 
 ---
 
-# 📊 GitHub Stats
-
-![Jihoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihoonkim0508\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihoonkim0508\&layout=compact\&theme=tokyonight)
-
----
-
 # 🔥 Currently Interested In
 
 * AI Engineering
@@ -87,6 +78,8 @@ Here are some ideas to get you started:
 # 📫 Contact
 
 * GitHub: https://github.com/jihoonkim0508
+* H·P: 010-3776-3580
+* Mail: jiohonkim0508@gmail.com
 
 ---
 
